@@ -1,5 +1,5 @@
 ![banner](https://drive.google.com/uc?export=view&id=1UwjjwBLGkuNdUW40z5m1g0-6NvtqNerc)
-<h1 align ="center">Hi, I'm Ranielli Montagna <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1>
+<h1 align ="center">Hi, I'm Ranielli Montagna 👋</h1>
 <p align='center'>
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;React%20|%20Typescript%20|%20NodeJS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
