@@ -10,16 +10,6 @@
 
  </br>
 
-<div align="center">
-  In addition to github, I also have projects on
-  </br>
-<a href="https://gitlab.com/RanielliMontagna/">
-  <img alt="DART" src="https://img.shields.io/badge/GitLab-0175C2?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</a>
-</div>
-
- </br>
-
 <h2 align="center">Contact me</h2>
 <p align="center">
   <a href="mailto:contato@ranimontagna.com">
